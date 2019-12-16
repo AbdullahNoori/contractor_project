@@ -1,4 +1,4 @@
-A website created by Abdullah Noori which allows users create, read/update, edit, delete links to adenvture trips around the world! Below are requirements included for this project:
+A website created by Abdullah Noori which allows users create, read/update, edit, delete links to adventure trips around the world! Below are requirements included for this project:
 
 Build and publicly deploy a Flask website
 
